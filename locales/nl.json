@@ -23,7 +23,7 @@
         "already_in_queue": "You are already in queue.",
         "no_subqueue": "You were not let in any sub-queue.",
         "character_delete_failed": "Verwijderen van tekens is mislukt. Probeer het opnieuw.",
-        "not_optin": "U bent niet aangemeld voor administratieve taken. (/kies om te schakelen)"
+        "not_optin": "U bent niet aangemeld voor administratieve taken. (/optin om te schakelen)"
     },
     "success": {
         "server_opened": "De server is geopend!",
